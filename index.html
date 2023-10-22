@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
     <style>
         body {
-            font-family: 'Comic Sans MS', cursive, sans-serif;
+            font-family: Arial;
             background: url('Fun.png') no-repeat center center fixed;
             background-size: cover;
             margin: 0;
@@ -47,6 +47,27 @@
             font-size: 1.5rem;
             color: #333;
             margin: 20px 0;
+        }
+        .footer {
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: #f9f9f9;
+            padding: 10px 0;
+        }
+
+        .footer a {
+            text-decoration: none;
+            color: #333;
+            font-size: 1.125rem;
+            transition: color 0.3s;
+            margin: 0 20px; /* Add margin to create space between the links */
+        }
+
+        .footer a:hover {
+            color: #ff5733;
         }
 
         a.button {
@@ -98,6 +119,12 @@
     <div class="container">
         <h1>Welcome to the fun game!</h1>
         <a class="button" href="welcome.html">Start the Fun!</a>
+    </div>
+    <div class="footer">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="rules.html">Rules</a>
+        <a href="contact.html">Contact Support</a>
     </div>
 </body>
 </html>
