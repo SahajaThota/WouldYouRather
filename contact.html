@@ -16,16 +16,15 @@
             align-items: center;
             min-height: 100vh;
         }
-        /* For smaller screens, adjust font size and font stack */
         @media (max-width: 768px) {
             body {
-                    font-size: 16px; /* Adjust the font size as needed */
+                    font-size: 16px; 
                     font-family: Arial, Helvetica, sans-serif;
                  }
         }
 
         .container {
-            max-width: 600px; /* Reduced width for better readability */
+            max-width: 600px; 
             padding: 30px;
             background-color: #f9f9f9;
             border-radius: 10px;
@@ -80,7 +79,7 @@
             color: #333;
             font-size: 1.125rem;
             transition: color 0.3s;
-            margin: 0 20px; /* Add margin to create space between the links */
+            margin: 0 20px; 
         }
 
         .footer a:hover {
@@ -114,29 +113,28 @@
     </div>
     <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
     <script>
-        // Initialize EmailJS with your User ID
         emailjs.init("LmD_tFMUxnEzGSVxX");
 
         document.getElementById("send-button").addEventListener("click", function() {
-            // Get the user input
+    
             var name = document.getElementById("name").value;
             var email = document.getElementById("email").value;
             var message = document.getElementById("message").value;
 
-            // Basic form validation
+            
             if (name.trim() === '' || email.trim() === '' || message.trim() === '') {
                 alert("Please fill in all fields.");
                 return;
             }
-            // Define your email parameters
+            
             var emailParams = {
-                to_email: "sahajathota1999@gmail.com", // Replace with the recipient's email address
+                to_email: "sahajathota1999@gmail.com", 
                 from_name: name,
                 from_email: email,
                 message: message,
             };
 
-            // Send the email
+            
             emailjs.send("service_kwt42xv", "template_z7snbtf", emailParams)
                 .then(function(response) {
                     alert("Email sent successfully!");
