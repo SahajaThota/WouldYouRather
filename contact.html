@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Support - Contact Us</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <style>
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 600px; /* Reduced width for better readability */
+            padding: 30px;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 36px;
+            color: #ff5733;
+            text-transform: uppercase;
+        }
+
+        #content {
+            text-align: center;
+            font-size: 18px;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        form {
+            text-align: center;
+        }
+
+        form label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        form input,
+        form textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .footer {
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: #f9f9f9;
+            padding: 10px 0;
+        }
+
+        .footer a {
+            text-decoration: none;
+            color: #333;
+            font-size: 1.125rem;
+            transition: color 0.3s;
+            margin: 0 20px; /* Add margin to create space between the links */
+        }
+
+        .footer a:hover {
+            color: #ff5733;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Contact Support</h1>
+        <div id="content">
+            If you have any concerns, or need assistance, please feel free to contact our support team by filling out the form below.
+        </div>
+        <form id="contact-form">
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Your Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+
+            <button type="button" id="send-button">Send Email</button>
+        </form>
+    </div>
+    <div class="footer">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="rules.html">Rules</a>
+        <a href="contact.html">Contact Support</a>
+    </div>
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+    <script>
+        // Initialize EmailJS with your User ID
+        emailjs.init("LmD_tFMUxnEzGSVxX");
+
+        document.getElementById("send-button").addEventListener("click", function() {
+            // Get the user input
+            var name = document.getElementById("name").value;
+            var email = document.getElementById("email").value;
+            var message = document.getElementById("message").value;
+
+            // Basic form validation
+            if (name.trim() === '' || email.trim() === '' || message.trim() === '') {
+                alert("Please fill in all fields.");
+                return;
+            }
+            // Define your email parameters
+            var emailParams = {
+                to_email: "sahajathota1999@gmail.com", // Replace with the recipient's email address
+                from_name: name,
+                from_email: email,
+                message: message,
+            };
+
+            // Send the email
+            emailjs.send("service_kwt42xv", "template_z7snbtf", emailParams)
+                .then(function(response) {
+                    alert("Email sent successfully!");
+                }, function(error) {
+                    alert("Email not sent. Please try again later.");
+                });
+        });
+    </script>
+</body>
+</html>
