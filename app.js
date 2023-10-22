@@ -10,6 +10,13 @@ app.use(bodyParser.json());
 // Read questions from JSON file
 let questions = JSON.parse(fs.readFileSync('questions.json', 'utf8'));
 
+const path = require('path');
+
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'index.html'));
+});
+app.use(express.static(__dirname));
+
 app.get('/question', (req, res) => {
     const randomIndex = Math.floor(Math.random() * questions.length);
     res.json(questions[randomIndex]);
