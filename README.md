@@ -1,4 +1,5 @@
-# Would You Rather - Virtual Interaction Game
+![WhatsApp Image 2023-10-24 at 5 10 17 PM (1)](https://github.com/SahajaThota/WouldYouRather/assets/82709418/9b0dfd55-5c1f-43ec-afe0-dd305eb60502)![WhatsApp Image 2023-10-24 at 5 10 17 PM (1)](https://github.com/SahajaThota/WouldYouRather/assets/82709418/56362b18-d332-436b-9341-43d1350faffb)# Would You Rather - Virtual Interaction Game
+![WhatsApp Image 2023-10-24 at 5 10 18 PM (1)](https://github.com/SahajaThota/WouldYouRather/assets/82709418/9c1a7aa4-f44a-4842-bbc7-3f2c00c9af10)
 
 ## Game Objective and Rules
 
@@ -8,6 +9,7 @@
 ### Rules
 
 - **Two Options**: Players are presented with two distinct choices, which can be humorous, challenging, or thought-provoking.
+![WhatsApp Image 2023-10-24 at 5 10 16 PM](https://github.com/SahajaThota/WouldYouRather/assets/82709418/39c67a26-ffd4-4d2d-8e90-b412e203dc29)
 - **Single Player Control**: One player controls the game interface, presenting questions and recording answers.
 - **Group Participation**: While one person controls the interface, all participants actively engage by making decisions and discussing choices.
 - **Making a Choice**: The group must discuss and select one of the two alternatives that are given. Their decision is final, and if they wish, they should provide justification. The game shows the percentage of the general population that chose the same option as they did.
@@ -18,24 +20,32 @@
 
 ## Technology Stack Used
 
-The game leverages a straightforward yet effective technology stack:
+A simple and effective technology stack was chosen for the technical implementation. The frontend's primary building blocks were HTML, CSS, and JavaScript, which offered a flexible and engaging user experience. For enhanced visual appeal and cross-device compatibility, we used Bootstrap. We found this technology stack to be a good choice since it allowed us to focus on the game's content and functionality while streamlining the development process. As part of our technical implementation, we integrated the "emailjs" library to enhance email functionalities of the "Would You Rather" game. Using Emailjs, you can send and receive email from a web application with ease.
 
 - **Frontend**: HTML, CSS, JavaScript.
 - **Styling and Layout**: Bootstrap - for enhanced visual appeal and cross-device compatibility.
 - **Email Integration**: Emailjs - for seamless email functionalities within the game.
+
+![WhatsApp Image 2023-10-24 at 5 10 17 PM](https://github.com/SahajaThota/WouldYouRather/assets/82709418/e4940e5f-05cb-4c7a-a1e3-a87c52430656)
 
 ## Setup and Deployment Instructions
 
 1. **Clone the Repository**: 
   The project repository may be downloaded or cloned to your local machine.
   **Git Clone:** https://github.com/SahajaThota/WouldYouRather
-2. **Open in Visual Studio Code**:
+   ![WhatsApp Image 2023-10-24 at 5 10 17 PM (1)](https://github.com/SahajaThota/WouldYouRather/assets/82709418/786dbd97-4ed2-4895-a794-6f460ff486fe)
+
+3. **Open in Visual Studio Code**:
    - Launch Visual Studio Code.
    - Navigate to `File` > `Open Folder` and select the cloned `WouldYouRather` directory.
-3. **Install Live Server Extension**:
+4. **Install Live Server Extension**:
    - In VS Code, go to the Extensions view.
    - Search for "Live Server" and install it.
-4. **Launch the Game**:
+     ![WhatsApp Image 2023-10-24 at 5 10 17 PM (2)](https://github.com/SahajaThota/WouldYouRather/assets/82709418/d725ad1f-7eaf-4f9b-91d8-25a052d07b50)
+
+     ![WhatsApp Image 2023-10-24 at 5 10 18 PM](https://github.com/SahajaThota/WouldYouRather/assets/82709418/7f88c219-4a44-4802-986e-4c30335cb56b)
+
+5. **Launch the Game**:
    - Right-click on the `index.html` file in the project directory.
    - Choose "Open with Live Server". This will launch the game in your default web browser using a local development server.
    - After the extension has been installed, choose "Open with Live Server" from the context menu when right-clicking on an index.html file in   the project directory. This will launch the game in your normal web browser and launch a local development server.
