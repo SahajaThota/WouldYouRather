@@ -1,4 +1,3 @@
-![WhatsApp Image 2023-10-24 at 5 10 17 PM (1)](https://github.com/SahajaThota/WouldYouRather/assets/82709418/9b0dfd55-5c1f-43ec-afe0-dd305eb60502)![WhatsApp Image 2023-10-24 at 5 10 17 PM (1)](https://github.com/SahajaThota/WouldYouRather/assets/82709418/56362b18-d332-436b-9341-43d1350faffb)# Would You Rather - Virtual Interaction Game
 ![WhatsApp Image 2023-10-24 at 5 10 18 PM (1)](https://github.com/SahajaThota/WouldYouRather/assets/82709418/9c1a7aa4-f44a-4842-bbc7-3f2c00c9af10)
 
 ## Game Objective and Rules
