@@ -1,4 +1,8 @@
-![WhatsApp Image 2023-10-24 at 5 10 18 PM (1)](https://github.com/SahajaThota/WouldYouRather/assets/82709418/9c1a7aa4-f44a-4842-bbc7-3f2c00c9af10)
+README File:
+Team Members:
+- Roshankumar Loganathan
+- Sahaja Thota
+- Abhinaya Sree Talluri
 
 ## Game Objective and Rules
 
