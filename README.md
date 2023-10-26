@@ -23,10 +23,9 @@ Team Members:
 
 ## Technology Stack Used
 
-A simple and effective technology stack was chosen for the technical implementation. The frontend's primary building blocks were HTML, CSS, and JavaScript, which offered a flexible and engaging user experience. For enhanced visual appeal and cross-device compatibility, we used Bootstrap. We found this technology stack to be a good choice since it allowed us to focus on the game's content and functionality while streamlining the development process. As part of our technical implementation, we integrated the "emailjs" library to enhance email functionalities of the "Would You Rather" game. Using Emailjs, you can send and receive email from a web application with ease.
+A simple and effective technology stack was chosen for the technical implementation. The frontend's primary building blocks were HTML, CSS, and JavaScript, which offered a flexible and engaging user experience. We found this technology stack to be a good choice since it allowed us to focus on the game's content and functionality while streamlining the development process. As part of our technical implementation, we integrated the "emailjs" library to enhance email functionalities of the "Would You Rather" game. Using Emailjs, you can send and receive email from a web application with ease.
 
 - **Frontend**: HTML, CSS, JavaScript.
-- **Styling and Layout**: Bootstrap - for enhanced visual appeal and cross-device compatibility.
 - **Email Integration**: Emailjs - for seamless email functionalities within the game.
 
 ![WhatsApp Image 2023-10-24 at 5 10 17 PM](https://github.com/SahajaThota/WouldYouRather/assets/82709418/e4940e5f-05cb-4c7a-a1e3-a87c52430656)
@@ -55,8 +54,6 @@ A simple and effective technology stack was chosen for the technical implementat
 
 
 ## Credits for Third-Party Assets and Code
-
-- **Bootstrap**: Used for styling and layout. More about Bootstrap can be found on its [official website](https://getbootstrap.com/).
 - **Emailjs**: Integrated for email functionalities. Learn more about Emailjs on its [official website](https://www.emailjs.com/).
 - **ChatGPT**: Assisted in certain aspects of coding and debugging.
 
