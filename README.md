@@ -7,7 +7,7 @@ Team Members:
 ## Game Objective and Rules
 
 ### Objective
-"Would You Rather" is a virtual interaction game designed to be played by a group of people on a video call. While the game interface is controlled by a single player, all participants actively engage in the game by making decisions, giving instructions, or answering questions. The game presents participants with two intriguing alternatives, prompting them to choose one, leading to lively discussions and debates.
+"Would You Rather" is a virtual interaction game designed to be played by a group of people on a video call. While the game interface is controlled by a single player, all participants actively engage in the game by making decisions, giving instructions, or answering questions. The game presents participants with two intriguing alternatives, prompting them to choose one, leading to lively discussions and debates. The game can be found here: https://sahajathota.github.io/WouldYouRather/.
 
 ### Rules
 
