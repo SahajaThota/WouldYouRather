@@ -97,6 +97,48 @@
         .footer a:hover {
             color: #ff5733;
         }
+        a.button {
+            display: block;
+            text-align: center;
+            width: 150px;
+            padding: 10px;
+            margin: 0 auto;
+            background-color: #ffcc00;
+            color: #fff;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 1.125rem;
+            transition: background-color 0.3s;
+        }
+
+        a.button:hover {
+            background-color: #ff9900;
+        }
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+            p {
+                font-size: 1.25rem;
+            }
+            a.button {
+                font-size: 1rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.5rem;
+            }
+            p {
+                font-size: 1rem;
+            }
+            a.button {
+                font-size: 0.875rem;
+            }
+        }
     </style>
 <body>
     <div class="container">
@@ -114,7 +156,7 @@
             <label for="message">Message:</label>
             <textarea id="message" name="message" rows="4" required></textarea>
 
-            <button type="button" id="send-button">Send Email</button>
+            <a class="button" id="send-button">Send Email</a>
         </form>
     </div>
     <div class="footer">

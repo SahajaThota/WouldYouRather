@@ -658,5 +658,225 @@
       "text": "Be free of work all day",
       "percentage": 70
     }
+  },
+  {
+    "question": " Always over spice your food or Always have your food taste bland?",
+    "option1": {
+      "text": "Always over spice your food",
+      "percentage": 73
+    },
+    "option2": {
+      "text": "Always have your food taste bland",
+      "percentage": 27
+    }
+  },
+  {
+    "question": " Instantly know when someone is lying to you or Be able to liewithout ever being caught?",
+    "option1": {
+      "text": "Instantly know when someone is lying to you",
+      "percentage": 58
+    },
+    "option2": {
+      "text": "Be able to liewithout ever being caught",
+      "percentage": 42
+    }
+  },
+  {
+    "question": " Stay isolated for the rest of your life or Have no privacy for the rest of your life?",
+    "option1": {
+      "text": "Stay isolated for the rest of your life",
+      "percentage": 58
+    },
+    "option2": {
+      "text": "Have no privacy for the rest of your life",
+      "percentage": 42
+    }
+  },
+  {
+    "question": " Be married forever or Be single forever?",
+    "option1": {
+      "text": "Be married forever",
+      "percentage": 75
+    },
+    "option2": {
+      "text": " Be single forever",
+      "percentage": 25
+    }
+  },
+  {
+    "question": " Never need to sleep or Never need to eat?",
+    "option1": {
+      "text": "Never need to sleep",
+      "percentage": 71
+    },
+    "option2": {
+      "text": " Never need to eat",
+      "percentage": 29
+    }
+  },
+  {
+    "question": " Never need to sleep or Never need to eat?",
+    "option1": {
+      "text": "Never need to sleep",
+      "percentage": 71
+    },
+    "option2": {
+      "text": " Never need to eat",
+      "percentage": 29
+    }
+  },
+  {
+    "question": "Speak and understand all languages or Play any musical instrument flawlessly?",
+    "option1": {
+      "text": "Speak and understand all languages",
+      "percentage": 55
+    },
+    "option2": {
+      "text": "Play any musical instrument flawlessly",
+      "percentage": 45
+    }
+  },
+  {
+    "question": "Live in a world without music or Live in a world without art?",
+    "option1": {
+      "text": "Live in a world without music",
+      "percentage": 60
+    },
+    "option2": {
+      "text": "Live in a world without art",
+      "percentage": 40
+    }
+  },
+  {
+    "question": "Explore the depths of the ocean orExplore the vastness of outer space?",
+    "option1": {
+      "text": "Explore the depths of the ocean",
+      "percentage": 57
+    },
+    "option2": {
+      "text": "Explore the vastness of outer space",
+      "percentage": 43
+    }
+  },
+  {
+    "question": "Control fire or Control water?",
+    "option1": {
+      "text": "Control fire",
+      "percentage": 53
+    },
+    "option2": {
+      "text": "Control water",
+      "percentage": 47
+    }
+  },
+  {
+    "question": "Witness a historic event or Meet a famous historical figure?",
+    "option1": {
+      "text": "Witness a historic event",
+      "percentage": 56
+    },
+    "option2": {
+      "text": "Meet a famous historical figure",
+      "percentage": 44
+    }
+  },
+  {
+    "question": "Be Sherlock Holmes or Elizabeth Bennet from 'Pride and Prejudice'?",
+    "option1": {
+      "text": "Sherlock Holmes",
+      "percentage": 49
+    },
+    "option2": {
+      "text": "Elizabeth Bennet",
+      "percentage": 51
+    }
+  },
+  {
+    "question": "Have the ability to teleport to any location instantly or have the power to read minds?",
+    "option1": {
+      "text": "Teleport to any location instantly",
+      "percentage": 60
+    },
+    "option2": {
+      "text": "Power to read minds",
+      "percentage": 40
+    }
+  },
+  {
+    "question": "Live in a world without electricity or live in a world without the internet?",
+    "option1": {
+      "text": "Live in a world without electricity",
+      "percentage": 48
+    },
+    "option2": {
+      "text": "Live in a world without the internet",
+      "percentage": 52
+    }
+  },
+  {
+    "question": "Be a character in your favorite video game or in your favorite movie?",
+    "option1": {
+      "text": "Be a character in your favorite video game",
+      "percentage": 52
+    },
+    "option2": {
+      "text": "Be a character in your favorite movie",
+      "percentage": 48
+    }
+  },
+  {
+    "question": "Live in a world without electricity or live in a world without the internet?",
+    "option1": {
+      "text": "Live in a world without electricity",
+      "percentage": 48
+    },
+    "option2": {
+      "text": "Live in a world without the internet",
+      "percentage": 52
+    }
+  },
+  {
+    "question": "Live in a world with endless daylight or endless night?",
+    "option1": {
+      "text": "Live in a world with endless daylight",
+      "percentage": 53
+    },
+    "option2": {
+      "text": "Live in a world with endless night",
+      "percentage": 47
+    }
+  },
+  {
+    "question": "Always have perfect weather or always have your favorite food available?",
+    "option1": {
+      "text": "Always have perfect weather",
+      "percentage": 60
+    },
+    "option2": {
+      "text": "Always have your favorite food available",
+      "percentage": 40
+    }
+  },
+  {
+    "question": "Be an Olympic athlete or a famous musician?",
+    "option1": {
+      "text": "Be an Olympic athlete",
+      "percentage": 55
+    },
+    "option2": {
+      "text": "Be a famous musician",
+      "percentage": 45
+    }
+  },
+  {
+    "question": "Always be able to find a parking spot immediately or never have to wait in line again?",
+    "option1": {
+      "text": "Find a parking spot immediately",
+      "percentage": 50
+    },
+    "option2": {
+      "text": "Never have to wait in line again",
+      "percentage": 50
+    }
   }
 ]
