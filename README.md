@@ -1,4 +1,4 @@
-README File:
+![WhatsApp Image 2023-10-27 at 5 31 09 AM](https://github.com/SahajaThota/WouldYouRather/assets/82709418/8064ae3c-059c-49f1-81ca-dd29ac804a5b)README File:
 Team Members:
 - Roshankumar Loganathan
 - Sahaja Thota
@@ -13,6 +13,7 @@ Team Members:
 
 - **Two Options**: Players are presented with two distinct choices, which can be humorous, challenging, or thought-provoking.
 ![WhatsApp Image 2023-10-24 at 5 10 16 PM](https://github.com/SahajaThota/WouldYouRather/assets/82709418/39c67a26-ffd4-4d2d-8e90-b412e203dc29)
+
 - **Single Player Control**: One player controls the game interface, presenting questions and recording answers.
 - **Group Participation**: While one person controls the interface, all participants actively engage by making decisions and discussing choices.
 - **Making a Choice**: The group must discuss and select one of the two alternatives that are given. Their decision is final, and if they wish, they should provide justification. The game shows the percentage of the general population that chose the same option as they did.
@@ -25,10 +26,11 @@ Team Members:
 
 A simple and effective technology stack was chosen for the technical implementation. The frontend's primary building blocks were HTML, CSS, and JavaScript, which offered a flexible and engaging user experience. We found this technology stack to be a good choice since it allowed us to focus on the game's content and functionality while streamlining the development process. As part of our technical implementation, we integrated the "emailjs" library to enhance email functionalities of the "Would You Rather" game. Using Emailjs, you can send and receive email from a web application with ease.
 
+![WhatsApp Image 2023-10-27 at 5 31 09 AM](https://github.com/SahajaThota/WouldYouRather/assets/82709418/e0fc97b3-483c-4bab-910a-c478249529c2)
+
 - **Frontend**: HTML, CSS, JavaScript.
 - **Email Integration**: Emailjs - for seamless email functionalities within the game.
 
-![WhatsApp Image 2023-10-24 at 5 10 17 PM](https://github.com/SahajaThota/WouldYouRather/assets/82709418/e4940e5f-05cb-4c7a-a1e3-a87c52430656)
 
 ## Setup and Deployment Instructions
 
