@@ -1,5 +1,5 @@
-![WhatsApp Image 2023-10-27 at 5 31 09 AM](https://github.com/SahajaThota/WouldYouRather/assets/82709418/8064ae3c-059c-49f1-81ca-dd29ac804a5b)README File:
-Team Members:
+##README File:
+#Team Members:
 - Roshankumar Loganathan
 - Sahaja Thota
 - Abhinaya Sree Talluri
