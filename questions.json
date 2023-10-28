@@ -1,6 +1,6 @@
 [
   {
-    "question": " run every time you walk or walk every time you run?",
+    "question": " Run every time you walk or Walk every time you run?",
     "option1": {
       "text": "Run every time I walk",
       "percentage": 61
@@ -11,7 +11,7 @@
     }
   },
   {
-    "question": " have a pet dinosaur or a pet dragon?",
+    "question": " Have a pet dinosaur or A pet dragon?",
     "option1": {
       "text": "Pet Dinosaur",
       "percentage": 45
@@ -22,7 +22,7 @@
     }
   },
   {
-    "question": " eat ice cream with noodles or cake with ketchup?",
+    "question": " Eat ice cream with noodles or Cake with ketchup?",
     "option1": {
       "text": "Eat ice cream with noodles",
       "percentage": 49
@@ -33,7 +33,7 @@
     }
   },
   {
-    "question": " have the ability to enter the world of any book you read or meet your favorite author in person?",
+    "question": " Have the ability to enter the world of any book you read or Meet your favorite author in person?",
     "option1": {
       "text": "Enter the world of any book you read",
       "percentage": 61
@@ -44,7 +44,7 @@
     }
   },
   {
-    "question": " stay in a class you find incredibly boring for an entire day or spend an entire day stuck in an elevator?",
+    "question": " Stay in a class you find incredibly boring for an entire day or Spend an entire day stuck in an elevator?",
     "option1": {
       "text": "Stay in a boring class for an entire day",
       "percentage": 42
@@ -55,7 +55,7 @@
     }
   }, 
   {
-    "question": " go skydiving or go deep sea diving?",
+    "question": " Go skydiving or Go deep sea diving?",
     "option1": {
       "text": "Go Skydiving",
       "percentage": 40
@@ -66,7 +66,7 @@
     }
   },   
   {
-    "question": " dress up like a eggplant or a pumpkin for an entire week?",
+    "question": " Dress up like a eggplant or A pumpkin for an entire week?",
     "option1": {
       "text": "Dress up like a eggplant",
       "percentage": 44
@@ -77,7 +77,7 @@
     }
   },  
   {
-    "question": " read a book in a library or by the beach?",
+    "question": " Read a book in a library or By the beach?",
     "option1": {
       "text": "Read in a library",
       "percentage": 55
@@ -88,7 +88,7 @@
     }
   },
   {
-    "question": " be able to time travel to the past or to the future?",
+    "question": " Be able to time travel to the past or To the future?",
     "option1": {
       "text": "Time travel to the past",
       "percentage": 67
@@ -99,7 +99,7 @@
     }
   },
   {
-    "question": " live without online shopping or live without in-person shopping at physical stores?",
+    "question": " Live without online shopping or Live without in-person shopping at physical stores?",
     "option1": {
       "text": "Live without online shopping",
       "percentage": 48
@@ -110,7 +110,7 @@
     }
   },
   {
-    "question": " lose the ability to talk or lose the ability to walk?",
+    "question": " Lose the ability to talk or Lose the ability to walk?",
     "option1": {
         "text": "Lose the ability to talk",
         "percentage": 40
@@ -121,7 +121,7 @@
     }
   },
   {
-    "question": " be an elder sibling or a younger sibling?",
+    "question": " Be an elder sibling or A younger sibling?",
     "option1": {
         "text": "Elder Sibling",
         "percentage": 60
@@ -132,7 +132,7 @@
     }
   },
   {
-    "question": " walk barefoot on a hot desert for an hour or on a freezing snowy mountain for an hour?",
+    "question": " Walk barefoot on a hot desert for an hour or On a freezing snowy mountain for an hour?",
     "option1": {
       "text": "Walk barefoot on a hot desert",
       "percentage": 42
@@ -143,7 +143,7 @@
     }
   },
   {
-    "question": " drink a shot of vinegar or a shot of soya sauce under the scorching sun?",
+    "question": " Drink a shot of vinegar or A shot of soya sauce under the scorching sun?",
     "option1": {
       "text": "Drink a shot of vinegar",
       "percentage": 35
@@ -154,7 +154,7 @@
     }
   },
   {
-    "question": " travel to a fictional book world or travel to the world of 'Romco,' a book of your choice?",
+    "question": " Travel to a fictional book world or Travel to the world of 'Romco,' a book of your choice?",
     "option1": {
       "text": "Travel to a fictional book world",
       "percentage": 59
@@ -165,7 +165,7 @@
     }
   },  
   {
-    "question": " be a vampire hunter or be a vampire?",
+    "question": " Be a vampire hunter or Be a vampire?",
     "option1": {
       "text": "Vampire Hunter",
       "percentage": 60
@@ -176,7 +176,7 @@
     }
   },
   {
-    "question": " sing a song in public or dance in public?",
+    "question": " Sing a song in public or Dance in public?",
     "option1": {
       "text": "Sing a song in public",
       "percentage": 62
@@ -187,7 +187,7 @@
     }
   },  
   {
-    "question": " go for a walk in a beautiful forest or along a beach?",
+    "question": " Go for a walk in a beautiful forest or Along a beach?",
     "option1": {
       "text": "Go for a walk in a beautiful forest",
       "percentage": 59
@@ -198,7 +198,7 @@
     }
   },
   {
-    "question": " eat 1 million burgers or sleep for 1 year?",
+    "question": " Eat 1 million burgers or Sleep for 1 year?",
     "option1": {
       "text": "Eat 1 million burgers",
       "percentage": 42
@@ -209,7 +209,7 @@
     }
   },
   {
-    "question": " have the ability to fly or be invisible?",
+    "question": " Have the ability to fly or Be invisible?",
     "option1": {
       "text": "Ability to fly",
       "percentage": 72
@@ -220,7 +220,7 @@
     }
   },
   {
-    "question": " go on a diet for a month or exercise for a month?",
+    "question": " Go on a diet for a month or Exercise for a month?",
     "option1": {
       "text": "Go on a diet for a month",
       "percentage": 42
@@ -231,7 +231,7 @@
     }
   },
   {
-    "question": " be invisible or have the ability to make others invisible?",
+    "question": " Be invisible or Have the ability to make others invisible?",
     "option1": {
       "text": "Be invisible",
       "percentage": 62
@@ -242,7 +242,7 @@
     }
   },
   {
-    "question": " always have to speak in rhyme or communicate using emojis only?",
+    "question": " Always have to speak in rhyme or Communicate using emojis only?",
     "option1": {
       "text": "Always have to speak in rhyme",
       "percentage": 42
@@ -253,7 +253,7 @@
     }
   },
   {
-    "question": " live in a tribal hut or a beachfront cabin?",
+    "question": " Live in a tribal hut or A beachfront cabin?",
     "option1": {
       "text": "Live in a tribal hut",
       "percentage": 36
@@ -264,7 +264,7 @@
     }
   },  
   {
-    "question": " play video games for the rest of your life or watch movies for the rest of your life?",
+    "question": " Play video games for the rest of your life or Watch movies for the rest of your life?",
     "option1": {
         "text": "Play Video Games",
         "percentage": 60
@@ -275,7 +275,7 @@
     }
   },
   {
-    "question": " become a scientist or a professor?",
+    "question": " Become a scientist or A professor?",
     "option1": {
       "text": "Become a scientist",
       "percentage": 57
@@ -286,7 +286,7 @@
     }
   },
   {
-    "question": " have the ability to teleport or read minds?",
+    "question": " Have the ability to teleport or Read minds?",
     "option1": {
       "text": "Teleport",
       "percentage": 63
@@ -297,7 +297,7 @@
     }
   },
   {
-    "question": " live without a phone or without a computer?",
+    "question": " Live without a phone or Without a computer?",
     "option1": {
       "text": "Live without a phone",
       "percentage": 60
@@ -308,7 +308,7 @@
     }
   },
   {
-    "question": " go on a world trip or stay at home?",
+    "question": " Go on a world trip or Stay at home?",
     "option1": {
       "text": "Go on a world trip",
       "percentage": 72
@@ -319,7 +319,7 @@
     }
   },
   {
-    "question": " be stuck outside all your life or be stuck inside all your life?",
+    "question": " Be stuck outside all your life or Be stuck inside all your life?",
     "option1": {
       "text": "Stuck Outside",
       "percentage": 40
@@ -330,7 +330,7 @@
     }
   },
   {
-    "question": " have the ability to stop time or reverse time?",
+    "question": " Have the ability to stop time or Reverse time?",
     "option1": {
       "text": "Stop time",
       "percentage": 53
@@ -341,7 +341,7 @@
     }
   },
   {
-    "question": " be a night owl or an early bird?",
+    "question": " Be a night owl or An early bird?",
     "option1": {
       "text": "Be a night owl",
       "percentage": 43
@@ -352,7 +352,7 @@
     }
   },
   {
-    "question": " go to the Moon or Mars?",
+    "question": " Go to the Moon or Mars?",
     "option1": {
       "text": "Go to the Moon",
       "percentage": 45
@@ -363,7 +363,7 @@
     }
   },
   {
-    "question": " always drink beverages that are too hot or always drink beverages that are too cold?",
+    "question": " Always drink beverages that are too hot or Always drink beverages that are too cold?",
     "option1": {
       "text": "Always drink beverages that are too hot",
       "percentage": 40
@@ -374,7 +374,7 @@
     }
   },  
   {
-    "question": " stay in a place with snowfall or a place with hot sun?",
+    "question": " Stay in a place with snowfall or A place with hot sun?",
     "option1": {
       "text": "Stay in a place with snowfall",
       "percentage": 43
@@ -385,7 +385,7 @@
     }
   },  
   {
-    "question": " spend a day at an amusement park or have a day of gaming with friends?",
+    "question": " Spend a day at an amusement park or Have a day of gaming with friends?",
     "option1": {
       "text": "Spend a day at an amusement park",
       "percentage": 49
@@ -396,7 +396,7 @@
     }
   },
   {
-    "question": " spend an entire summer at the beach or in the mountains?",
+    "question": " Spend an entire summer at the beach or In the mountains?",
     "option1": {
         "text": "At the Beach",
         "percentage": 60
@@ -407,7 +407,7 @@
     }
   },
   {
-    "question": " have the power of super strength or the ability to fly?",
+    "question": " Have the power of super strength or The ability to fly?",
     "option1": {
       "text": "Super strength",
       "percentage": 42
@@ -418,7 +418,7 @@
     }
   },
   {
-    "question": " live in a world with no social media or a world with no online shopping?",
+    "question": " Live in a world with no social media or A world with no online shopping?",
     "option1": {
       "text": "No social media",
       "percentage": 54
@@ -429,7 +429,7 @@
     }
   },
   {
-    "question": " live without shopping for new books or live without shopping for new clothes?",
+    "question": " Live without shopping for new books or Live without shopping for new clothes?",
     "option1": {
       "text": "Live without shopping for new books",
       "percentage": 54
@@ -440,7 +440,7 @@
     }
   },
   {
-    "question": " stay away from Instagram for a year or have to post on Instagram every day for a year?",
+    "question": " Stay away from Instagram for a year or Have to post on Instagram every day for a year?",
     "option1": {
       "text": "Stay away from Instagram for a year",
       "percentage": 57
@@ -451,7 +451,7 @@
     }
   },
   {
-    "question": " spend a night on the ocean or spend a night in a forest?",
+    "question": " Spend a night on the ocean or Spend a night in a forest?",
     "option1": {
         "text": "Spend a night on the ocean",
         "percentage": 40
@@ -462,7 +462,7 @@
     }
   },
   {
-    "question": " be able to control time and relive moments or have the ability to predict the future?",
+    "question": " Be able to control time and relive moments or Have the ability to predict the future?",
     "option1": {
       "text": "Control time and relive moments",
       "percentage": 58
@@ -473,7 +473,7 @@
     }
   },
   {
-    "question": " have the ability to control gravity or control time?",
+    "question": " Have the ability to control gravity or Control time?",
     "option1": {
       "text": "Control gravity",
       "percentage": 45
@@ -484,7 +484,7 @@
     }
   },
   {
-    "question": " be Spiderman or Peppa Pig?",
+    "question": " Be Spiderman or Peppa Pig?",
     "option1": {
       "text": "Spiderman",
       "percentage": 50
@@ -495,7 +495,7 @@
     }
   },
   {
-    "question": " watch a movie at home or in a movie theater?",
+    "question": " Watch a movie at home or In a movie theater?",
     "option1": {
       "text": "Watch a movie at home",
       "percentage": 57
@@ -506,7 +506,7 @@
     }
   },
   {
-    "question": " grow a garden or take care of a pet?",
+    "question": " Grow a garden or Take care of a pet?",
     "option1": {
       "text": "Grow a garden",
       "percentage": 52
@@ -517,7 +517,7 @@
     }
   },
   {
-    "question": " have the ability to instantly teleport anywhere in the world or have the power of invisibility?",
+    "question": " Have the ability to instantly teleport anywhere in the world or Have the power of invisibility?",
     "option1": {
       "text": "Instantly teleport anywhere in the world",
       "percentage": 63
@@ -528,7 +528,7 @@
     }
   },
   {
-    "question": " live in a world with no social media or a world with no online shopping?",
+    "question": " Live in a world with no social media or A world with no online shopping?",
     "option1": {
       "text": "No social media",
       "percentage": 54
@@ -539,7 +539,7 @@
     }
   },
   {
-    "question": " have a world with no homework or a world with no exams?",
+    "question": " Have a world with no homework or A world with no exams?",
     "option1": {
       "text": "No homework",
       "percentage": 57
@@ -550,7 +550,7 @@
     }
   },
   {
-    "question": " become a wizard like Harry Potter or have the intellect of Albert Einstein?",
+    "question": " Become a wizard like Harry Potter or Have the intellect of Albert Einstein?",
     "option1": {
       "text": "Become a wizard like Harry Potter",
       "percentage": 47
@@ -561,7 +561,7 @@
     }
   },
   {
-    "question": " never be able to draw or never be able to write?",
+    "question": " Never be able to draw or Never be able to write?",
     "option1": {
       "text": "Never be able to draw",
       "percentage": 60
@@ -572,7 +572,7 @@
     }
   },
   {
-    "question": " always be late or always be early to work?",
+    "question": " Always be late or Always be early to work?",
     "option1": {
       "text": "Always be late to work",
       "percentage": 25
@@ -583,7 +583,7 @@
     }
   },  
   {
-    "question": " live in a world where video games  are the primary forms of entertainment or a world where outdoor activities are the main sources of entertainment?",
+    "question": " Live in a world where video games  are the primary forms of entertainment or A world where outdoor activities are the main sources of entertainment?",
     "option1": {
       "text": "Video games as primary entertainment",
       "percentage": 40
@@ -594,7 +594,7 @@
     }
   },
   {
-    "question": " be able to fly like a bird or swim like a fish?",
+    "question": " Be able to fly like a bird or Swim like a fish?",
     "option1": {
       "text": "Fly like a bird",
       "percentage": 71
@@ -605,7 +605,7 @@
     }
   },
   {
-    "question": " live in a world where it's always summer or a world where it's always winter?",
+    "question": " Live in a world where it's always summer or A world where it's always winter?",
     "option1": {
       "text": "Always summer",
       "percentage": 67
@@ -616,7 +616,7 @@
     }
   },
   {
-    "question": " have a pet penguin or a pet kangaroo?",
+    "question": " Have a pet penguin or A pet kangaroo?",
     "option1": {
       "text": "Pet penguin",
       "percentage": 55
@@ -627,7 +627,7 @@
     }
   },
   {
-    "question": " have more time or have more money?",
+    "question": " Have more time or Have more money?",
     "option1": {
         "text": "Have more time",
         "percentage": 40
@@ -638,7 +638,7 @@
     }
   },
   {
-    "question": " eat a pumpkin or a watermelon with mustard on it?",
+    "question": " Eat a pumpkin or A watermelon with mustard on it?",
     "option1": {
       "text": "Eat a pumpkin",
       "percentage": 62
@@ -649,7 +649,7 @@
     }
   },
   {
-    "question": " work all day or be free of work all day?",
+    "question": " Work all day or Be free of work all day?",
     "option1": {
       "text": "Work all day",
       "percentage": 30
@@ -792,7 +792,7 @@
     }
   },
   {
-    "question": "Have the ability to teleport to any location instantly or have the power to read minds?",
+    "question": "Have the ability to teleport to any location instantly or Have the power to read minds?",
     "option1": {
       "text": "Teleport to any location instantly",
       "percentage": 60
@@ -803,7 +803,7 @@
     }
   },
   {
-    "question": "Live in a world without electricity or live in a world without the internet?",
+    "question": "Live in a world without electricity or Live in a world without the internet?",
     "option1": {
       "text": "Live in a world without electricity",
       "percentage": 48
@@ -814,7 +814,7 @@
     }
   },
   {
-    "question": "Be a character in your favorite video game or in your favorite movie?",
+    "question": "Be a character in your favorite video game or In your favorite movie?",
     "option1": {
       "text": "Be a character in your favorite video game",
       "percentage": 52
@@ -825,7 +825,7 @@
     }
   },
   {
-    "question": "Live in a world without electricity or live in a world without the internet?",
+    "question": "Live in a world without electricity or Live in a world without the internet?",
     "option1": {
       "text": "Live in a world without electricity",
       "percentage": 48
@@ -836,7 +836,7 @@
     }
   },
   {
-    "question": "Live in a world with endless daylight or endless night?",
+    "question": "Live in a world with endless daylight or Endless night?",
     "option1": {
       "text": "Live in a world with endless daylight",
       "percentage": 53
@@ -847,7 +847,7 @@
     }
   },
   {
-    "question": "Always have perfect weather or always have your favorite food available?",
+    "question": "Always have perfect weather or Always have your favorite food available?",
     "option1": {
       "text": "Always have perfect weather",
       "percentage": 60
@@ -858,7 +858,7 @@
     }
   },
   {
-    "question": "Be an Olympic athlete or a famous musician?",
+    "question": "Be an Olympic athlete or A famous musician?",
     "option1": {
       "text": "Be an Olympic athlete",
       "percentage": 55
@@ -869,7 +869,7 @@
     }
   },
   {
-    "question": "Always be able to find a parking spot immediately or never have to wait in line again?",
+    "question": "Always be able to find a parking spot immediately or Never have to wait in line again?",
     "option1": {
       "text": "Find a parking spot immediately",
       "percentage": 50
