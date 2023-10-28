@@ -32,7 +32,7 @@ A simple and effective technology stack was chosen for the technical implementat
 
 - **Frontend**: HTML, CSS, JavaScript.
 - **Email Integration**: Emailjs - For seamless email functionalities within the game.
-- **Website Tour**: Intro.js is to create a guided tour of website.
+- **Website Tour**: Introjs- Is to create a walkthrough of the website.
 
 
 
@@ -63,6 +63,7 @@ A simple and effective technology stack was chosen for the technical implementat
 ## Credits for Third-Party Assets and Code
 - **Emailjs**: Integrated for email functionalities. Learn more about Emailjs on its [official website](https://www.emailjs.com/).
 - **ChatGPT**: Assisted in certain aspects of coding and debugging.
+- **Emailjs**: Assisted in website walkthrough. learn more about introjs on its [official website](https://introjs.com/).
 
 ## Reflection 
 
