@@ -31,7 +31,7 @@ A simple and effective technology stack was chosen for the technical implementat
 ![WhatsApp Image 2023-10-27 at 5 31 09 AM](https://github.com/SahajaThota/WouldYouRather/assets/82709418/e0fc97b3-483c-4bab-910a-c478249529c2)
 
 - **Frontend**: HTML, CSS, JavaScript.
-- **Email Integration**: Emailjs - for seamless email functionalities within the game.
+- **Email Integration**: Emailjs - For seamless email functionalities within the game.
 - **Website Tour**: Intro.js is to create a guided tour of website.
 
 
