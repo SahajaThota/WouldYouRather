@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.2.2/introjs.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.2.2/intro.min.js"></script>  
 </head>
    
     <style>
@@ -129,13 +131,30 @@
 <body>
     <div class="container">
         <h1>It's time for some fun!</h1>
-        <a class="button" href="welcome.html">Lets get started!</a>
+        <a class="button" href="welcome.html" data-intro="'Let's get started!' button. Click it to begin your journey." data-step="5" data-position="bottom">Let's get started!</a>
     </div>
     <div class="footer">
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="rules.html">Rules</a>
-        <a href="contact.html">Contact Support</a>
+        <a href="index.html" data-intro="'Home' Takes you to the welcome page." data-step="1" data-position="top">Home</a>
+        <a href="about.html" data-intro="'About' Provides Would You Rather Objective." data-step="2" data-position="top">About</a>
+        <a href="rules.html" data-intro="'Rules' Provides Would You Rather Rules." data-step="3" data-position="top">Rules</a>
+        <a href="contact.html" data-intro="'Contact Support' Provides Would You Rather contact form." data-step="4" data-position="top">Contact Support</a>
     </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            if (!localStorage.getItem("tourCompleted")) {
+                const intro = introJs();
+    
+                intro.oncomplete(function() {
+                    localStorage.setItem("tourCompleted", "true");
+                });
+    
+                intro.onexit(function() {
+                    localStorage.setItem("tourCompleted", "true");
+                });
+    
+                intro.start();
+            }
+        });
+    </script>
 </body>
 </html>
