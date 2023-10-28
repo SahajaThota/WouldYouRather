@@ -63,7 +63,7 @@ A simple and effective technology stack was chosen for the technical implementat
 ## Credits for Third-Party Assets and Code
 - **Emailjs**: Integrated for email functionalities. Learn more about Emailjs on its [official website](https://www.emailjs.com/).
 - **ChatGPT**: Assisted in certain aspects of coding and debugging.
-- **Emailjs**: Assisted in website walkthrough. learn more about introjs on its [official website](https://introjs.com/).
+- **Introjs**: Assisted in website walkthrough. learn more about introjs on its [official website](https://introjs.com/).
 
 ## Reflection 
 
