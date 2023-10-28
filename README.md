@@ -32,6 +32,9 @@ A simple and effective technology stack was chosen for the technical implementat
 
 - **Frontend**: HTML, CSS, JavaScript.
 - **Email Integration**: Emailjs - for seamless email functionalities within the game.
+- **Website Tour**: Intro.js is to create a guided tour of website.
+
+
 
 
 ## Setup and Deployment Instructions
